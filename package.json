@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@stripe/stripe-js": "^1.20.3",
     "next": "12.0.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "stripe": "^8.185.0"
   },
   "devDependencies": {
     "eslint": "7.32.0",
